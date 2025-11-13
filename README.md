@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently working on a medical research paper.
+I am currently learning Ml and the resours I only use is BOOK'S.
+I’m looking to collaborate on madical or climet reacher paperes.
+Fun fact: I am a 9th grade and a self toucht Data Analatic 😄�
+How to reach me: anashabibshahriarrahman@gmail.com
 <!--
 **Anas6r/Anas6r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
