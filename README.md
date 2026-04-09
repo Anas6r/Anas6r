@@ -10,7 +10,6 @@ My work is focused on building **deep, rigorous foundations** in:
 
 * Machine Learning
 * Mathematics (for ML & problem solving)
-* Competitive Programming (C++)
 
 I prioritize **depth, clarity, and real understanding over speed**.
 
