@@ -1,21 +1,112 @@
-## Hi there 👋
+# Anas | Machine Learning & Data Science
 
-I am currently working on a medical research paper.
-I am currently learning Ml and the resours I only use is BOOK'S.
-I’m looking to collaborate on madical or climet reacher paperes.
-Fun fact: I am a 9th grade and a self toucht Data Analatic 😄�
-How to reach me: anashabibshahriarrahman@gmail.com
-<!--
-**Anas6r/Anas6r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Class 10 student from Bangladesh working toward a career in **Machine Learning research**, with a long-term goal of studying at top global universities (Harvard, MIT, Oxford) on a fully funded scholarship.
+
+My work is focused on building **deep, rigorous foundations** in:
+
+* Machine Learning
+* Mathematics (for ML & problem solving)
+* Competitive Programming (C++)
+
+I prioritize **depth, clarity, and real understanding over speed**.
+
+---
+
+## Current Focus (2026)
+
+* Studying *Hands-On Machine Learning with Scikit-Learn & TensorFlow*
+* Strengthening Python for real-world ML workflows
+* Improving data analysis skills (Pandas, Matplotlib)
+
+---
+
+## Technical Skills
+
+### Languages
+
+* Python (Basic → Intermediate)
+
+### Data Science & ML
+
+* NumPy
+* Pandas (Intermediate)
+* Matplotlib (Basic)
+* Supervised learning (regression, tree-based models)
+
+### Tools
+
+* Jupyter Notebook
+* Git & GitHub (actively improving)
+
+---
+
+## Learning Path
+
+### In Progress
+
+* *Hands-On Machine Learning*
+* Strengthening Python fundamentals
+* Data analysis and visualization
+
+---
+
+## Research Direction
+
+### Focus Area
+
+**Climate / Environmental Machine Learning**
+
+### Current Topic
+
+Flood Risk & Rainfall Prediction
+
+### Ongoing Work
+
+* Studying ML applications in flood prediction
+* Preparing a structured mini research project:
+
+  * Comparative analysis of ML models
+  * Models: Linear Regression, Decision Tree, Random Forest
+  * Focus: Accuracy, reliability, real-world feasibility
+
+
+## Research Approach
+
+- Read papers before implementation
+- Focus on understanding assumptions behind models
+- Prioritize reproducibility and clear evaluation
+- Document uncertainties and limitations during experiments
+
+---
+
+## Projects
+
+Currently working on my first research-oriented Machine Learning project:
+
+- Rainfall-Based Flood Risk Prediction (in progress)
+  - Comparative study of ML models (Linear Regression, Decision Tree, Random Forest)
+  - Evaluation: RMSE, MAE
+  - Focus: data quality, model performance, and real-world applicability
+
+---
+
+## Goals (2026–2029)
+
+* Build strong foundations in ML, Math, and Programming
+* Publish research papers in applied Machine Learning
+* Reach a high level in Competitive Programming
+* Develop impactful ML systems (Climate & Medical AI)
+* Achieve admission to a top-tier university with full funding
+  
+---
+
+## Philosophy
+
+* Depth > Speed
+* Consistency > Intensity
+* Understanding > Memorization
+* Real work > Empty claims
