@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Class 10 student from Bangladesh working toward a career in **Machine Learning research**, with a long-term goal of studying at top global universities (Harvard, MIT, Oxford) on a fully funded scholarship.
+I am a Class 10 student from Bangladesh working toward a career in **Machine Learning research**, with a long-term goal of being a researcher in this field and contributing my best.
 
 My work is focused on building **deep, rigorous foundations** in:
 
