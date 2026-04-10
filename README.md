@@ -98,9 +98,7 @@ Currently working on my first research-oriented Machine Learning project:
 * Build strong foundations in ML, Math, and Programming
 * Publish research papers in applied Machine Learning
 * Reach a high level in Competitive Programming
-* Develop impactful ML systems (Climate & Medical AI)
-* Achieve admission to a top-tier university with full funding
-  
+* Develop impactful ML systems (Climate & Medical AI)  
 ---
 
 ## Philosophy
