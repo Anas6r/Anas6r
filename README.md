@@ -27,7 +27,7 @@ I prioritize **depth, clarity, and real understanding over speed**.
 
 ### Languages
 
-* Python (Basic → Intermediate)
+* Python
 
 ### Data Science & ML
 
