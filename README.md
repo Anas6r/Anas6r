@@ -11,5 +11,3 @@ Building: Improving my competitive programming skills and building strong mathem
 Languages: Python
 
 Data Science & ML: NumPy, Pandas, Matplotlib, Scikit-Learn (Supervised Learning)
-
-Tools & Environment: Jupyter Notebook, Git, GitHub4
